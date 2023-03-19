@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+p {
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    /* padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px; */
+    padding: 20px 30px 40px 50px;
+    /* margin-left: 40px;
+margin-right: 40px;
+margin-top: 40px;
+margin-bottom: 40px; */
+    /* margin: 40px; */
+    margin: 10px 20px 30px 40px;
+
+    
+}
+h1{
+    /* margin: 40px; */
+}
